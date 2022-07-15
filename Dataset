@@ -1,0 +1,27 @@
+[
+  {
+    "Nombre": "Paul",
+    "Nota": 7,
+    "Ranking": 30
+  },
+  {
+    "Nombre": "Javi",
+    "Nota": 8,
+    "Ranking": 20
+  },
+  {
+    "Nombre": "Samuel",
+    "Nota": 5,
+    "Ranking": 50
+  },
+  {
+    "Nombre": "Pepe",
+    "Nota": 9,
+    "Ranking": 11
+  },
+  {
+    "Nombre": "Isabel",
+    "Nota": 9,
+    "Ranking": 10
+  },
+]
